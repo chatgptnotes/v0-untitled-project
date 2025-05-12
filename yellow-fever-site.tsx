@@ -3340,5 +3340,4 @@ return (
             <label htmlFor="nagpur-time" className="block text-sm font-medium text-gray-700 mb-1">
               Preferred Time
             </label>
-            <select id="nagpur-time" className="w-full p-2 border border-gray-300 rounded-md" required>
-\
+            <select id="nag\
